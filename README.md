@@ -1,6 +1,6 @@
 # Marcos Alexandre Milezarek
 
-Erechim, RS. Busco vaga de Desenvolvedor Java júnior, back-end.
+Erechim, RS. Busco vaga de Desenvolvedor Java júnior, back-end ou fullstack.
 
 Técnico em Informática na Creral desde jun/2024: sistemas internos em Java, Spring Boot, React e MySQL e automações em Python. 
 
