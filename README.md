@@ -8,12 +8,13 @@ Cursando ADS no IFRS Campus Erechim (conclusão prevista em dez/2026). Técnico 
 
 ## Stack
 
-Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, Flyway, APIs REST · JUnit 5, Mockito · MySQL, SQL · React · Python, PowerShell · Linux (Ubuntu), deploy em VPS · Git, GitHub, Claude Code · UML, levantamento de requisitos
+Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, Flyway, APIs REST, Swagger · JUnit 5, Mockito · MySQL, SQL · React · Python, PowerShell · Linux (Ubuntu), Docker, deploy em VPS · Git, GitHub, GitHub Actions · UML, levantamento de requisitos
 
 ## Projetos
 
 - [Plataforma de Recrutamento e Seleção](https://github.com/MarcosMilezarek/ProjetoIntegrador-ADS2026) (TCC, [demo](https://upteam.duckdns.org/)): triagem de currículos por IA via OpenRouter, Spring Security com JWT, Flyway, testes unitários e de integração.
 - [API REST de tarefas](https://github.com/MarcosMilezarek/to-do-list) (estudo).
+- [Gestão de Gastos Familiares](https://github.com/MarcosMilezarek/gestao-gastos-familiares): app mobile first para um casal controlar contas, cartão, metas e orçamento, em Python, React e MySQL.
 - [Otimização de estações Windows](https://github.com/MarcosMilezarek/otimizacao-windows) em PowerShell.
 
 ## Contato
